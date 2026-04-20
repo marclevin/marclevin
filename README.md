@@ -19,4 +19,3 @@ Overwatch, Deadlock, too much coffee, daily Connections and Wordle.
 
 ### 📫 Reach Out
 📍 Cape Town - always up to chat fintech, blockchain, or complex systems.
-```
